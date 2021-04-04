@@ -1,2 +1,2 @@
-GitHub\ Presentation.docx  index.html  test2.txt		  ~WRL0104.tmp
-git\ commands.txt	   test1.txt   ~$tHub\ Presentation.docx
+GitHub\ Presentation.docx  test1.txt  ~$tHub\ Presentation.docx
+git\ commands.txt	   test2.txt  ~WRL0104.tmp
