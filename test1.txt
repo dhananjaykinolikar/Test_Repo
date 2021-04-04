@@ -1,1 +1,2 @@
-changes 1
+GitHub\ Presentation.docx  test1.txt		      ~WRL0104.tmp
+git\ commands.txt	   ~$tHub\ Presentation.docx
