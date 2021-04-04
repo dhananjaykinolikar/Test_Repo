@@ -1,0 +1,49 @@
+git version
+
+git help
+
+git help config
+
+
+-----------
+present working directory
+pwd
+------------
+for setting name and email
+git config --global user.name "Dhananjay Kinolikar"
+git config --global user.email "dhananjay@kinolikar.com"
+
+-------------
+get the list of file
+git config --global --list
+
+-------------
+configuration setting
+cat ~/.gitconfig
+--------------
+create project with name git-demo
+git init git-demo
+--------------------------------
+navigate  "git-demo" folder
+cd git-demo/
+--------------
+to get all list
+ls
+ls -a
+--------------
+Reinitialized existing Git repository
+$ git init
+
+git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
+
+---------------------
+create file
+dir>test1.txt
+ git add test1.txt
+
+-----------------------
+to commit and add comments
+git commit -m "added test1.txt"
+
+----------------------------
+
